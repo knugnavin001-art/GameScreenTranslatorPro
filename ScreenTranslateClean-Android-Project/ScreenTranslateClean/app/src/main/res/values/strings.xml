@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Translate Clean</string>
+    <string name="accessibility_description">ปุ่มลอยสำหรับแปลข้อความบนหน้าจอ</string>
+</resources>
